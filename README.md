@@ -1,3 +1,8 @@
+## set your Login.ini file
+You need to sign up for a space-track account to download the tle data. <br/>
+And update your account to the Login.ini file.
+
+
 # Covariance-using-historical-TLE
 
 ![image](https://github.com/SpaceMapR-D/Covariance-using-historical-TLE/assets/121158156/169132e6-7454-4a91-9c73-d8126f2d6f0e)
