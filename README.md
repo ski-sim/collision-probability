@@ -11,7 +11,7 @@ The residuals and their mean can be used to compute the covariance matrix of the
 
 
 # maximum_collision_probability_2D
-
+![image](https://github.com/ski-sim/collision-probability/assets/121158156/b1b666f7-fab0-4f4e-9997-e66f045bf608)
 If we use a low precision covariance, the probability value will be too small to be meaningful . <br/>Therefore, we compute a maximum collision probability that conservatively computes the covariance.<br/>
 we have several assumption of error covariance ellipse.<br/>
 1. orientation along with major axis.<br/>
