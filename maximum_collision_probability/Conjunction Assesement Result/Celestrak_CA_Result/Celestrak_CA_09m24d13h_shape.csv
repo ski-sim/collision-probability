@@ -1,0 +1,77 @@
+,SHAPE_1,SHAPE_2
+Box + 1 Pan,35534.0,4320.0
+Box + 2 Pan,14110.0,3036.0
+Box,10360.0,2238.0
+Trap Cyl + 2 Pan,1680.0,24.0
+Box + 2 Ant,828.0,130.0
+Cyl + 2 Pan,556.0,50.0
+Box + 3 Pan,386.0,94.0
+Hex Cyl + 3 Pan,364.0,2.0
+Box + 1 Ant,334.0,34.0
+Box + 1 Sail,230.0,8.0
+Hex Cyl + 2 Pan,224.0,
+Box + 4 Pan,170.0,
+Box + 2 Pan + 1 Dish,158.0,78.0
+Half Hex Cyl + 2 Pan,128.0,
+Sphere,124.0,6.0
+Oct Cyl,114.0,
+Box + 2 Pan + 1 Ant,106.0,
+Hex Cyl + 2 Pan + 1 Dish,104.0,12.0
+Half Cone + 1 Rod,94.0,
+Cyl + 4 Pan,84.0,
+Box + 1 Pan + 1 Ant,82.0,12.0
+Box + 1 Rod,70.0,
+Cyl + 1 Ant,70.0,2.0
+Hex Cyl + 1 Pan,68.0,4.0
+Hex Cyl,62.0,
+Cyl,58.0,4.0
+Box + 4 Ant,52.0,
+Hex Cyl + 1 Ant,50.0,
+Box + 2 Pan + 4 Ant,50.0,
+Box + Cyl + 2 Pan,50.0,14.0
+Box + 1 Dish,50.0,
+Oct Cyl + 2 Pan,48.0,
+Box + 1 Tether,44.0,10.0
+Cyl + 1 Pan,40.0,
+Cyl + 2 Ant,38.0,
+Box + 1 Truss,34.0,8.0
+Poly,34.0,
+Box + Cyl + 1 Pan,30.0,
+Cyl + 1 Arm,28.0,
+Cyl + 1 Ant + 2 Pan,28.0,
+Hex Cyl + 4 Pan,26.0,
+Poly + 1 Ant,24.0,
+Box + 1 Plate + 1 Ant,24.0,
+Cyl + Cyl + 2 Nozzle,20.0,16.0
+Box + Cyl,20.0,
+Half Oct Cyl,18.0,16.0
+Box + Hex Box + 3 Pan,18.0,
+Cyl + 2 Pan + 1 Dish,18.0,
+Half Hex Poly,18.0,
+Hex Cyl + Cyl + 3 Pan,16.0,
+Box + 2 Pan + 1 Rod,16.0,
+Trunc Cone,16.0,
+Box + 4 Pan + 2 Ant,16.0,
+Hept Cyl + Cyl,16.0,
+Tri Box,16.0,
+Box + 1 Arm,14.0,
+Box + Box,14.0,4.0
+Box + 1 Rod + 1 Dish,12.0,2.0
+Hept Cone + Cyl,12.0,6.0
+Box + 1 Dome + 1 Pan,10.0,
+Cyl + 3 Pan,10.0,
+Box + 2 Pan + 3 Ant,10.0,
+Poly + 6 Pan,10.0,
+Box + 1 Pan + 1 Dish + 1 Rod,8.0,16.0
+Box + Half Poly,8.0,
+Cyl + 1 Nozzle,8.0,
+Cyl + 2 Pan + 1 Ant,8.0,
+Hex  Cyl + 3 Pan,8.0,
+Box + 1 Pan + 1 Dish,8.0,
+Hex Poly,6.0,
+Taper Cyl + 2 Pan,6.0,
+Hex Cyl  + 3 Pan,4.0,2.0
+Hex Cyl + Box + Box,4.0,
+Box + Cone + 2 Pan + 1 Dish,4.0,
+Irr,2.0,
+Unknown,,51078.0
